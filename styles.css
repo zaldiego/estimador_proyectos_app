@@ -1,0 +1,46 @@
+
+
+/* Colores en fondo de página */
+[data-testid='stAppViewContainer'] {
+    background-color: #FFFFFF;
+}
+/* Color de linea de ajuste*/
+.css-1avcm0n {
+    background:#FFFFFF
+}
+
+/* Colores en SideBar, */
+.css-1cypcdb {
+    background-color:#6B00F9
+}
+
+/* Colores en Title, Header, Subheader, */
+h1, h2, h3{
+    color: #39067B;
+}
+
+/* Colores de texto en general, */
+.css-1qg05tj{
+    color: #6B00F7;
+}
+
+/* Colores en texto de Radio */
+.st-ci{
+    color: #39067B;
+}
+
+/* Color en Radio lleno */
+.st-bs, .st-db, .st-do{
+    background-color: #6B00F9;
+}
+
+/* Color en Radio vacío */
+.st-cm{
+    background-color: #717C90;
+}
+
+/* Colores en datos Slides */
+.css-ffhzg2, .css-10y5sf6, .css-1vzeuhh, .css-1inwz65{
+    color: #6B00F9;
+    font-size: 16px;
+}
